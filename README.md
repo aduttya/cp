@@ -5,3 +5,4 @@
 
 |#|Timestamp|Problem|Solution|Remark|
 |:-:|:-:|:-:|:-:|:-:|
+|1|24 Jan,21 19:10 IST|[Catch the thief (CATHIEF)](https://www.codechef.com/problems/CATHIEF)|[View](https://www.codechef.com/viewsolution/41813864)|this is test problem|
